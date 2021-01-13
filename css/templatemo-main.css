@@ -295,19 +295,19 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/bg-01.png);
+  background-image: url(../img/web-bg-01.jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/bg-02.png);
+  background-image: url(../img/web-bg-01.jpg);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/bg-03.png);
+  background-image: url(../img/web-bg-01.jpg);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/bg-04.png);
+  background-image: url(../img/web-bg-01.jpg);
  }
 .slides .slide:nth-child(5) {
-  background-image: url(../img/bg-05.png);
+  background-image: url(../img/web-bg-01.jpg);
 }
 .slides .slide:nth-child(6) {
   background-image: url(../img/sixth_bg.jpg);
@@ -645,7 +645,7 @@ nav a:hover::before {
   font-size: 13px;
   font-weight: 300;
   color: #fff;
-  background-color: rgba(250, 250, 250, 0.15);
+  /* background-color: rgba(250, 250, 250, 0.15); */
   outline: none;
   border: none;
   box-shadow: none;
@@ -662,7 +662,7 @@ nav a:hover::before {
   font-size: 13px;
   font-weight: 300;
   color: #fff;
-  background-color: rgba(250, 250, 250, 0.15);
+  /* background-color: rgba(250, 250, 250, 0.15); */
   outline: none;
   border: none;
   box-shadow: none;
